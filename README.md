@@ -33,26 +33,6 @@ The project uses a large annotated news bias dataset with the following relevant
 
 ---
 
-## 🏗️ Project Structure
-.
-├── data/
-│ ├── train.parquet
-│ └── test.parquet
-├── models/
-│ ├── tfidf_logreg.joblib
-│ └── tfidf_word_char_logreg.joblib
-├── notebooks/
-│ ├── 01_eda.ipynb
-│ ├── 02_data_cleaning.ipynb
-│ ├── 03_tfidf_baseline.ipynb
-│ ├── 04_word_char_tfidf.ipynb
-│ └── 05_model_comparison.ipynb
-├── main.py
-└── README.md
-
-
----
-
 ## 🔍 Models Implemented
 
 ### 1️⃣ Baseline Model — Word-level TF-IDF + Logistic Regression
