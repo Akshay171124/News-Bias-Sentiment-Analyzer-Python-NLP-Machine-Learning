@@ -65,6 +65,19 @@ The project uses a large annotated news bias dataset with the following relevant
 - Macro F1 (important due to class imbalance)
 - Confusion Matrix (normalized)
 
+## 📚 Dataset & Citation
+
+This project uses the **BEADs (Bias Evaluation Across Domains)** dataset for training and evaluation.
+
+If you use this dataset, please cite the following paper:
+
+@article{raza2024beads,
+  title={BEADs: Bias Evaluation Across Domains},
+  author={Raza, Shaina and Rahman, Mizanur and Zhang, Michael R},
+  journal={arXiv preprint arXiv:2406.04220},
+  year={2024}
+}
+
 ---
 
 ## 🚀 How to Run
@@ -81,19 +94,6 @@ Character-level features improve detection of stylistic bias cues.
 
 Hierarchical bias classification may further improve performance.
 
-## 📚 Dataset & Citation
-
-This project uses the **BEADs (Bias Evaluation Across Domains)** dataset for training and evaluation.
-
-If you use this dataset, please cite the following paper:
-
-```bibtex
-@article{raza2024beads,
-  title={BEADs: Bias Evaluation Across Domains},
-  author={Raza, Shaina and Rahman, Mizanur and Zhang, Michael R},
-  journal={arXiv preprint arXiv:2406.04220},
-  year={2024}
-}
 
 
 
