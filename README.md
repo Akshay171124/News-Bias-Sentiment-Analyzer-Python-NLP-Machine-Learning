@@ -81,6 +81,22 @@ Character-level features improve detection of stylistic bias cues.
 
 Hierarchical bias classification may further improve performance.
 
+## 📚 Dataset & Citation
+
+This project uses the **BEADs (Bias Evaluation Across Domains)** dataset for training and evaluation.
+
+If you use this dataset, please cite the following paper:
+
+```bibtex
+@article{raza2024beads,
+  title={BEADs: Bias Evaluation Across Domains},
+  author={Raza, Shaina and Rahman, Mizanur and Zhang, Michael R},
+  journal={arXiv preprint arXiv:2406.04220},
+  year={2024}
+}
+
+
+
 🔮 Future Work
 Hierarchical classification (Biased vs Neutral → Bias intensity)
 Transformer-based models (BERT / RoBERTa / DeBERTa)

@@ -1,0 +1,23 @@
+
+### Paste this inside:
+cff-version: 1.2.0
+title: "News Bias Detection System"
+authors:
+  - family-names: Prajapati
+    given-names: Akshay
+version: 1.0.0
+date-released: 2026-01-03
+repository-code: "https://github.com/Akshay171124/News-Bias-Sentiment-Analyzer-Python-NLP-Machine-Learning"
+
+preferred-citation:
+  type: article
+  title: "BEADs: Bias Evaluation Across Domains"
+  authors:
+    - family-names: Raza
+      given-names: Shaina
+    - family-names: Rahman
+      given-names: Mizanur
+    - family-names: Zhang
+      given-names: Michael R
+  journal: "arXiv preprint arXiv:2406.04220"
+  year: 2024
